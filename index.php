@@ -1,3 +1,3 @@
 <?php
-include_once("virtibot.html");
+include_once("new.html");
 ?>
